@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liuyx2023.github.io</id>
+    <title>The Dark Gentleman.</title>
+    <updated>2023-09-10T08:06:35.735Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liuyx2023.github.io"/>
+    <link rel="self" href="https://liuyx2023.github.io/atom.xml"/>
+    <subtitle>在恐怖的黑暗中探寻真谛，勇敢面对内心的深渊。</subtitle>
+    <logo>https://liuyx2023.github.io/images/avatar.png</logo>
+    <icon>https://liuyx2023.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, The Dark Gentleman.</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://liuyx2023.github.io/post/hello-world/</id>
+        <link href="https://liuyx2023.github.io/post/hello-world/">
+        </link>
+        <updated>2023-09-10T07:53:15.000Z</updated>
+        <content type="html"><![CDATA[<p>遇见你真好，仿佛阳光洒在我的心田，温暖了我整个世界。你的笑容如春风拂过，让我感受到幸福的芬芳。你的存在给我带来了一份无尽的快乐和安慰，每一次与你相处都是心灵的盛宴。😀<img src="https://liuyx2023.github.io/post-images/1694332520054.jpeg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
